@@ -1,5 +1,7 @@
 # Frontend Mentor - Profile card component
 
+## Url: [https://pezemiwe.github.io/profile-card-component-main/](https://pezemiwe.github.io/profile-card-component-main/)
+
 ![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
